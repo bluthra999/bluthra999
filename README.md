@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
  ![Bhavay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluthra999&show_icons=true&theme=highcontrast)
+ 
 ![Bhavay's Github Stats](https://github-readme-stats.vercel.app//api?username=var-bluthra999&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=var-bluthra999&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=ffffff&color=fefefe)
+bluthra999&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=ffffff&color=fefefe)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=var-bluthra999&theme=github-dark&hide_border=true" alt="var-bluthra999"/>
 
