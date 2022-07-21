@@ -40,7 +40,9 @@ You can click the Preview link to take a look at your changes.
  
  [![Bhavay's github activity graph](https://activity-graph.herokuapp.com/graph?username=bluthra999&theme=react-dark)](https://github.com/bluthra999/github-readme-activity-graph)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bluthra999&repo=github-readme-stats&theme=highcontrast)](https://github.com/bluthra999/github-readme-stats)
+
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluthra999&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
