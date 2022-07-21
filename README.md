@@ -43,6 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=var-bluthra999&theme=github-dark&hide_border=true" alt="var-bluthra999"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=var-bluthra999&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluthra999)](https://github.com/bluthra999/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluthra999&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
