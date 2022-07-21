@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.instagram.com/vibin_hooman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibin_hooman" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bhavay333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhavay333" height="30" width="40" /></a>
-<a href="https://github.com/bluthra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bluthra999" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavayluthra/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bluthra999" height="30" width="40" /></a>
 <a href="https://twitter.com/bhavay_luthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavay_luthra" height="30" width="40" /></a>  
 </p>
 
