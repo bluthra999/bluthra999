@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 
  ![Bhavay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluthra999&show_icons=true&theme=highcontrast)
  
+ [![Bhavay's github activity graph](https://activity-graph.herokuapp.com/graph?username=bluthra999&theme=highcontrast)](https://github.com/bluthra999/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluthra999&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
