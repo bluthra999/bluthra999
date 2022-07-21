@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
        <a href="https://www.javatpoint.com/bash-scripting" target="_blank"> <img src="https://help.apple.com/assets/6152754A4192845C4361C49A/6152754B4192845C4361C4A1/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1642082724" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.tutorialspoint.com/fortran/index.htm" target="_blank"> <img src="https://en.wikipedia.org/wiki/File:Fortran_logo.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.tutorialspoint.com/fortran/index.htm" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://people.duke.edu/~hpgavin/gnuplot.html" target="_blank"> <img src="https://a.fsdn.com/allura/p/gnuplot/icon?w=180&1513717478" width="40" height="40"/> </a> 
 
   
