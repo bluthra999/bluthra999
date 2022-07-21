@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.javatpoint.com/latex" target="_blank"> <img src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" alt="css3" width="40" height="40"/> </a> 
      <a href="http://www.cplusplus.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a>
        <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-       <a href="https://www.javatpoint.com/bash-scripting" target="_blank"> <img src="https://www.pngegg.com/en/png-zchtn" alt="javascript" width="40" height="40"/> </a> 
+       <a href="https://www.javatpoint.com/bash-scripting" target="_blank"> <img src="https://help.apple.com/assets/6152754A4192845C4361C49A/6152754B4192845C4361C4A1/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
   
