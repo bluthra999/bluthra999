@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Bhavay Luthra
 - Hi, I’m Bhavay Luthra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "25px"> 
 - 👀 I’m interested in Computational Physics
 - 🌱 I’m currently learning Python 
