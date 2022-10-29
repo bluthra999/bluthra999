@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluthra999&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/bluthra999/bluthra999/blob/output/(github-snake-dark.svg#gh-dark-mode-only)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluthra999&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
