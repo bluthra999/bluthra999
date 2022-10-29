@@ -48,8 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Snake animation](https://github.com/bluthra999/bluthra999/blob/output/github-contribution-grid-snake.svg)
 
+<!--- ![Snake animation](https://github.com/bluthra999/bluthra999/blob/output/github-contribution-grid-snake.svg) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluthra999&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
+
+<img width="100%" src="https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" >
